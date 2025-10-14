@@ -1,0 +1,13 @@
+Local var 1 address: 0xffb86c44
+Local var 2 address: 0xffb86c40
+Local float address: 0xffb86c3c
+Max int address: 0xffb86c38
+Heap var 1 address: 0x56fba1a0
+Heap var 2 address: 0x56fba210
+Global (uninit) var 1 address: 0x565e2028
+Global (uninit) var 2 address: 0x565e202c
+Static Local var 1 address: 0x565e2030
+Static Local var 2 address: 0x565e201c
+Global var 1 address: 0x565e2024
+Global var 2 (MAX_INT) address: 0x565e2014
+Global float address: 0x565e2018

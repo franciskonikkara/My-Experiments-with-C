@@ -1,0 +1,5 @@
+[31m[1mpwndbg: [0m[31m[0m[91mloaded 211 pwndbg commands. Type [35mpwndbg [filter][0m[91m for a list.[0m
+[31m[1mpwndbg: [0m[31m[0m[91mcreated 13 GDB functions (can be used with print/break). Type [35mhelp function[0m[91m to see them.[0m
+Reading symbols from ./address_layout...
+Detected double-loading of Pwndbg (likely from both .gdbinit and the Pwndbg portable build).
+To fix this, please remove the line 'source your-path/gdbinit.py' from your .gdbinit file.
